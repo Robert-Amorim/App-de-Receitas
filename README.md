@@ -27,8 +27,8 @@ API's:
 - No terminal use o npm start;
 
 ESTE PROJETO FOI REALIZADO POR:
+[Robert A](https://www.linkedin.com/in/robert-amorim/)
 [Henrik Santos](https://www.linkedin.com/in/henrik-santos-dev/)
 [Daniel Röhe]()
 [Pétala Leite](https://www.linkedin.com/in/petala-leite/)
-[Jonas Jeronimo](https://www.linkedin.com/in/jonasjeronimo/)
-[Robert A](https://www.linkedin.com/in/robert-amorim/).
+[Jonas Jeronimo](https://www.linkedin.com/in/jonasjeronimo/).
